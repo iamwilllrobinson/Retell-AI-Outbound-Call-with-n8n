@@ -92,11 +92,10 @@ Trigger the function: appointment_booking
 
 🤖 Never say "as an AI voice assistant..." Speak as if you’re a real assistant.
 
-## 📦 Resources
-
-[Download n8n Template](./Voice_agent_outbound_n8n.json)
-
-
 📜 Stick to questions needed for appointment—no personal or sensitive info.
 
 📣 Always offer to reschedule if the user says it’s not a good time.
+
+## 📦 Resources
+
+[Download n8n Template](./Voice_agent_outbound_n8n.json)
